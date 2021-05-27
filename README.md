@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-alalalalala i am aichunlong
+i am aichunlong, a fresh man.
+next, i would study in Github
